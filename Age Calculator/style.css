@@ -1,0 +1,25 @@
+button{
+    font-size: 70px;
+    border-radius: 100px;
+    background-color: #000;
+    color: #fff;
+    padding: 50px;
+}
+body{
+   
+    background-color: orange;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 99vw;
+    height: 80vh;
+}
+.heading h1{
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
